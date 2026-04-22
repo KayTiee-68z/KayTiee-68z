@@ -34,9 +34,6 @@ I believe in continuous learning. Here is my current proficiency in various tech
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=KayTiee-68z&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=white&icon_color=007ACC" alt="GitHub Stats" />
     </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayTiee-68z&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=white" alt="Top Languages" />
-    </td>
   </tr>
 </table>
 
