@@ -40,7 +40,7 @@ I believe in continuous learning. Here is my current proficiency in various tech
 ### 📈 Contribution Activity
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KayTiee-68z&theme=github-dark-simple&area=true&hide_border=true&color=007ACC&line=007ACC&point=007ACC" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KayTiee-68z&theme=github-dark-simple&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
