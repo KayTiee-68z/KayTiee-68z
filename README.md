@@ -7,7 +7,7 @@ Mình luôn hướng tới việc viết code sạch, dễ bảo trì và thiế
 - 🔭 Hiện tại mình đang phát triển các dự án ứng dụng Desktop và Web.
 - 🌱 Đang tập trung nâng cao kỹ năng với **React, C# và cơ sở dữ liệu**.
 - 💬 Đừng ngại hỏi mình về: C#, WinForms, HTML/CSS, và React.
-- 📫 Kết nối với mình qua: [Facebook](https://www.facebook.com/KayTiee.Ng/) hoặc [Instagram](https://www.instagram.com/ktiee_ng/).
+- 📫 Kết nối với mình qua: (https://kaytiee.id.vn/)
 
 #### 🛠 Kỹ năng & Công nghệ
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
