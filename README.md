@@ -16,13 +16,13 @@ I believe in continuous learning. Here is my current proficiency in various tech
 **Programming Languages & Web**
 - **HTML/CSS** ----------------------- **90%**
 - **TypeScript** ---------------------- **75%**
-- **JavaScript** ---------------------- **80%**
-- **C# / .NET** ----------------------- **70%**
+- **JavaScript** ---------------------- **60%**
+- **C# / .NET** ----------------------- **40%**
 - **SQL Server** ---------------------- **65%**
 
 **Frameworks & Tools**
 - **React.js** ------------------------ **70%**
-- **Visual Studio** -------------------- **85%**
+- **Visual Studio** -------------------- **23%**
 - **Git / GitHub** --------------------- **75%**
 
 ---
