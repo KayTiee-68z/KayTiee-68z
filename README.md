@@ -1,20 +1,35 @@
-### Chào bạn, mình là KayTiee 👋
+# Hi, I'm KayTiee 👋
 
-**IT Student & Software Developer**
+**CONTACT ME**
 
-Mình luôn hướng tới việc viết code sạch, dễ bảo trì và thiết kế giao diện tối giản (minimalist), mang lại trải nghiệm chuyên nghiệp cho người dùng.
+[![Website kaytiee.id.vn](https://img.shields.io/badge/Website-kaytiee.id.vn-blue?style=for-the-badge&logo=id&logoColor=white)](https://kaytiee.id.vn)
 
-- 🔭 Hiện tại mình đang phát triển các dự án ứng dụng Desktop và Web.
-- 🌱 Đang tập trung nâng cao kỹ năng với **React, C# và cơ sở dữ liệu**.
-- 💬 Đừng ngại hỏi mình về: C#, WinForms, HTML/CSS, và React.
-- 📫 Kết nối với mình qua: (https://kaytiee.id.vn/)
 
-#### 🛠 Kỹ năng & Công nghệ
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+---
 
-#### 📊 Thống kê GitHub
-[![KayTiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayTiee-68z&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333)](https://github.com/KayTiee-68z)
+## 📊 Thống kê GitHub & Ngôn ngữ
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=trchicuong&show_icons=true&theme=dark&rank_icon=github&hide_border=true&title_color=white&text_color=white&icon_color=40c463" alt="Thống kê GitHub" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=dark&hide_border=true&title_color=white&text_color=white&icon_color=239120" alt="Ngôn ngữ sử dụng nhiều nhất" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=trchicuong&theme=dark" alt="Huy chương GitHub" />
+</div>
+
+---
+
+### 📈 Biểu đồ Hoạt động Chi tiết
+
+[![Biểu đồ hoạt động của kaytiee](https://github-readme-activity-graph.vercel.app/graph?username=trchicuong&theme=github-dark-simple&area=true&hide_border=true&color=40C4FF&line=40C4FF&point=40C4FF)](https://github.com/kaytiee-68z)
+
+---
+
+Cảm ơn bạn đã ghé thăm trang của mình! Đừng ngại để lại phản hồi về hồ sơ của mình! 🍀
