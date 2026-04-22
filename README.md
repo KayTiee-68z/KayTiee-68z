@@ -1,7 +1,8 @@
 # Hi there, I'm KayTiee 👋
 
 ### 📫 Connect with me
-[![Website kaytiee.id.vn](https://img.shields.io/badge/Website-trchicuong.id.vn-blue?style=for-the-badge&logo=id&logoColor=white)](https://kaytiee.id.vn)
+[![Website kaytiee.id.vn](https://img.shields.io/badge/Website-kaytiee.id.vn-blue?style=for-the-badge&logo=id&logoColor=white)](https://kaytiee.id.vn)
+
 **Software Development Student | Tech Enthusiast**
 
 I focus on building clean, minimalist, and efficient applications. Passionate about learning new technologies and improving code quality every day.
