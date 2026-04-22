@@ -1,5 +1,8 @@
 # Hi there, I'm KayTiee 👋
 
+### 📫 Connect with me
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaytiee.id.vn/))
+
 **Software Development Student | Tech Enthusiast**
 
 I focus on building clean, minimalist, and efficient applications. Passionate about learning new technologies and improving code quality every day.
@@ -44,11 +47,6 @@ I believe in continuous learning. Here is my current proficiency in various tech
 </p>
 
 ---
-
-### 📫 Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KayTiee.Ng/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ktiee_ng/)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/KayTiee-68z)
 
 ---
 *“Simplicity is the soul of efficiency.”*
