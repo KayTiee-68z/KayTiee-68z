@@ -1,35 +1,54 @@
-# Hi, I'm KayTiee 👋
+# Hi there, I'm KayTiee 👋
 
-**CONTACT ME**
+**Software Development Student | Tech Enthusiast**
 
-[![Website kaytiee.id.vn](https://img.shields.io/badge/Website-kaytiee.id.vn-blue?style=for-the-badge&logo=id&logoColor=white)](https://kaytiee.id.vn)
-
+I focus on building clean, minimalist, and efficient applications. Passionate about learning new technologies and improving code quality every day.
 
 ---
 
-## 📊 Thống kê GitHub & Ngôn ngữ
+### 🛠 Skills & Competencies
+
+I believe in continuous learning. Here is my current proficiency in various technologies:
+
+**Programming Languages & Web**
+- **HTML/CSS** ----------------------- **90%**
+- **TypeScript** ---------------------- **75%**
+- **JavaScript** ---------------------- **80%**
+- **C# / .NET** ----------------------- **70%**
+- **SQL Server** ---------------------- **65%**
+
+**Frameworks & Tools**
+- **React.js** ------------------------ **70%**
+- **Visual Studio** -------------------- **85%**
+- **Git / GitHub** --------------------- **75%**
+
+---
+
+### 📊 GitHub Activities & Stats
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=trchicuong&show_icons=true&theme=dark&rank_icon=github&hide_border=true&title_color=white&text_color=white&icon_color=40c463" alt="Thống kê GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KayTiee-68z&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=white&icon_color=007ACC" alt="GitHub Stats" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trchicuong&layout=compact&theme=dark&hide_border=true&title_color=white&text_color=white&icon_color=239120" alt="Ngôn ngữ sử dụng nhiều nhất" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayTiee-68z&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=white" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=trchicuong&theme=dark" alt="Huy chương GitHub" />
-</div>
+### 📈 Contribution Activity
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KayTiee-68z&theme=github-dark-simple&area=true&hide_border=true&color=007ACC&line=007ACC&point=007ACC" width="100%" alt="Contribution Graph" />
+</p>
 
 ---
 
-### 📈 Biểu đồ Hoạt động Chi tiết
-
-[![Biểu đồ hoạt động của kaytiee](https://github-readme-activity-graph.vercel.app/graph?username=trchicuong&theme=github-dark-simple&area=true&hide_border=true&color=40C4FF&line=40C4FF&point=40C4FF)](https://github.com/kaytiee-68z)
+### 📫 Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KayTiee.Ng/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ktiee_ng/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/KayTiee-68z)
 
 ---
-
-Cảm ơn bạn đã ghé thăm trang của mình! Đừng ngại để lại phản hồi về hồ sơ của mình! 🍀
+*“Simplicity is the soul of efficiency.”*
